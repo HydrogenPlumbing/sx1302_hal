@@ -1,4 +1,4 @@
-FROM arm64v8/alpine:3.19
+FROM https://www.docker.io/arm64v8/alpine:3.19
 
 RUN apk add --no-cache build-base git linux-rpi4 linux-headers
 
