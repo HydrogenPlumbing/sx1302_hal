@@ -1,4 +1,3 @@
-DOCKER_OPTS="--dns 8.8.8.8 --dns 8.8.4.4"
 FROM arm64v8/alpine:3.19
 
 RUN apk add --no-cache build-base git linux-rpi4 linux-headers
