@@ -1,4 +1,4 @@
-NOTE: This project is a version of the Semitech sx1302_hal project, modifeid to work on the RAK V2 miner hardware variant (forked from https://github.com/brocaar/sx1302_hal), and packaged for deploment on a Raspberry Pi 4 with 64 bit Alpine linux.
+NOTE: This project is a version of the Semitech sx1302_hal project, modified to work on the RAK V2 miner hardware variant (forked from https://github.com/brocaar/sx1302_hal), and packaged for deploment on a Raspberry Pi 4 with 64 bit Alpine linux.
   
   
   	/ _____)             _              | |
