@@ -1,4 +1,4 @@
-FROM docker.io/arm64v8/alpine:3.18
+FROM docker.io/arm32v7/alpine:3.19
 ARG TARGETPLATFORM
 RUN echo "I'm building for $TARGETPLATFORM"
 RUN apk update && apk upgrade --no-cache
